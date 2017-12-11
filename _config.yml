@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Enhance ManageIQ
+title: Project Blog
 
 # Short description of your site
 description: Blog introducing our project - Automate hybrid cloud using Ansible and ManageIQ
