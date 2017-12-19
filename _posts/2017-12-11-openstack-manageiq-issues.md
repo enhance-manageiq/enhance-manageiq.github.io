@@ -1,6 +1,6 @@
 ---
 title:2017-12-11-openstack-manageiq-issues
-Author:Soniya Vyas
+author:Soniya Vyas
 Date:December 11,2017
 ---
 
