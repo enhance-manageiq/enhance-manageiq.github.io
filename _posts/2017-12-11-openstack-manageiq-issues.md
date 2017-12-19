@@ -1,7 +1,8 @@
 ---
+layout:post
 title:2017-12-11-openstack-manageiq-issues
 author:Soniya Vyas
-Date:December 11,2017
+date:December 11,2017
 tags: [Issue, OpenStack]
 ---
 ## OpenStack and ManageIQ:-
