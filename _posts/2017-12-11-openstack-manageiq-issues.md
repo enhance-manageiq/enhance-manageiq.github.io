@@ -1,7 +1,7 @@
 ---
-Title: Introduction to OpenStack and ManageIQ
-Author: Soniya Vyas
-Date : December 11,2017
+title:2017-12-11-openstack-manageiq-issues
+Author:Soniya Vyas
+Date:December 11,2017
 ---
 
 ## OpenStack and ManageIQ:-
