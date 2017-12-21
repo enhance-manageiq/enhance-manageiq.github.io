@@ -1,10 +1,10 @@
 ---
-layout:post
-title:2017-12-11-openstack-manageiq-issues
-author:Soniya Vyas
-date:December 11,2017
+layout: post
+title: OpenStack-ManageIQ-issues
+author: Soniya Vyas
 tags: [Issue, OpenStack]
 ---
+
 ## OpenStack and ManageIQ:-
 
 ManageIQ can manage a variety of external environments, known as *__providers__* and *__managers__*. A provider or manager is any system that ManageIQ integrates with for the purpose of collecting data and performing operations.
