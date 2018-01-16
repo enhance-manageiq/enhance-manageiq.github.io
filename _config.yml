@@ -23,7 +23,7 @@ description: Blog introducing our project - Automate hybrid cloud using Ansible 
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutus"
   Resources:
     - Project Link: "https://github.com/rh-universityoutreach-india/projects/pull/21"
     - ManageIQ: "http://manageiq.org/"
