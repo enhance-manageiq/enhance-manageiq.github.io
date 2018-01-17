@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About us
-subtitle: 
+subtitle: Knowing about the project
+Author: Khushbu Borole
 ---
+# Automating hybrid cloud using ManageIQ and Ansible
 
-My name is Inigo Montoya. I have the following qualities:
+Since ManageIQ code-name Fine release it is possible to automate environment using Ansible, instead of ManageIQ's legacy Automate Datastore which is in Ruby. Goal of this project is to develop automation using Ansible and Ruby to extend usage of ManageIQ for hybrid cloud management and automation.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+*ManageIQ* is an open source cloud management platform. It was founded by Red Hat as a community project in 2014, and forms the basis for its CloudForms product. ManageIQ is develpoed on Rail on Rails( ROR ) framework with Ruby language by Red Hat. The latest stable release is 'Fine' which mainly focus on Ansible. It is the Open Source Cloud Management Platform.
 
-What else do you need?
+*Fine* is the stable release for ManageIQ cloud and virtualization management platform. In this release, a lot of attention was given to Ansible.
+*Pre-release (Gaprindashvili-1-RC1)* is the new pre release verson of ManageIQ
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
